@@ -1,0 +1,6 @@
+music_dir = "./music"
+server_addr = "0.0.0.0:3000"
+
+[certs]
+cert_path = "certs/cert.pem"
+key_path = "certs/key.pem"
